@@ -1,0 +1,24 @@
+{
+  "name": "page-fetcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charleenmperrier/page-fetcher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charleenmperrier/page-fetcher/issues"
+  },
+  "homepage": "https://github.com/charleenmperrier/page-fetcher#readme",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "fs": "0.0.1-security",
+    "request": "^2.88.2"
+  }
+}
